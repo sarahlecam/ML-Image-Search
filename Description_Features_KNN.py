@@ -2,6 +2,7 @@ import pandas as pd
 import csv
 import glob
 import re
+import operator
 import numpy as np
 import scipy as sp
 from nltk.stem import PorterStemmer
@@ -57,14 +58,20 @@ test_desc = preprocess_descriptions(test_desc_fpath)
 
 # build bag of words for descriptions
 def build_bag_of_words(descriptions):
-    unique_words = []
+    word_dict = {}
     desc_feat = []
+    unique_words = []
     
     #build a list of unique words from train descriptions
     for desc in train_desc:
         for word in desc.split():
-            if word not in unique_words:
-                unique_words.append(word)
+        	if word in word_dict:
+        		word_dict[word] += 1
+        	else:
+        		word_dict[word] = 1
+
+    # include words with counts > 10
+    unique_words = [k for k,v in word_dict.items() if v > 10]
 
     # for each description, create a feature vector with ith index as the count of ith word in the word list
     for desc in descriptions:
@@ -98,7 +105,7 @@ def train_KNN():
     pred = knn.predict(test_desc_feat)
     return pred
 
-pred = train_KNN()
+predictions = train_KNN()
 
 
 # create map of image name to train feature vector
