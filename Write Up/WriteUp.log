@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 DEC 2017 19:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 DEC 2017 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -895,56 +895,117 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/futs/bx/sc' in size <17.28> not available
 (Font)              Font shape `T1/futs/b/sc' tried instead on input line 91.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 94.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 102.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 103.
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 95.
+(hyperref)                be the same. Added a new anchor on input line 116.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 130.
+<images/schematic.png, id=128, 718.8456pt x 407.121pt>
+File: images/schematic.png Graphic file (type png)
+
+<use images/schematic.png>
+Package pdftex.def Info: images/schematic.png used on input line 135.
+(pdftex.def)             Requested size: 407.66833pt x 230.88107pt.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 136.
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 160.
+
+[4 <./images/schematic.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 175.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 189.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 207.
+
+[6]
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 215
+.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `futs' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 138.
+[8]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 263.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic settings for font family
@@ -952,116 +1013,195 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
+Underfull \hbox (badness 10000) in paragraph at lines 268--271
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
+Underfull \hbox (badness 10000) in paragraph at lines 268--271
 
  []
 
 
-Overfull \hbox (6.75781pt too wide) in paragraph at lines 146--149
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+
+ []
+
+
+Overfull \hbox (6.20634pt too wide) in paragraph at lines 277--280
+[]\T1/futs/m/n/12 (-20) Wang, Li-wei, et al. ?Learn-ing Deep Structure-Preservi
+ng Image-Text Em-bed-dings.? [1511.06078]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 305--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+
+ []
+
+
+Overfull \hbox (6.75781pt too wide) in paragraph at lines 330--333
 \T1/cmtt/m/n/12 What-[]is-[]the-[]difference-[]between-[]bag-[]of-[]words-[]TF-
 []IDF-[]and-[]vector-[]space-[]model$[]\T1/futs/m/n/12 (-20) . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
+Underfull \hbox (badness 10000) in paragraph at lines 330--333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
+Underfull \hbox (badness 10000) in paragraph at lines 330--333
 
  []
 
 
-Overfull \hbox (3.19092pt too wide) in paragraph at lines 150--153
+Overfull \hbox (3.19092pt too wide) in paragraph at lines 334--337
 []\T1/futs/m/n/12 (-20) C., Gab. "Bag of Words and Tf-Idf Ex-plained." \T1/futs
 /m/it/12 (-20) Data Meets Me-dia\T1/futs/m/n/12 (-20) , 7 May 2017, []$\T1/cmtt
 /m/n/12 datameetsmedia .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 334--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 334--337
 
  []
 
-[3] 
+[10] 
 AED: lastpage setting LastPage
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
  (./WriteUp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
-
-
-Package rerunfilecheck Warning: File `WriteUp.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `WriteUp.out':
-(rerunfilecheck)             Before: 5DE02F249C7120730A6531EEAF717D54;1444
-(rerunfilecheck)             After:  0E0B65630A6D1B976CE28716FBC79595;353.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
+Package rerunfilecheck Info: File `WriteUp.out' has not changed.
+(rerunfilecheck)             Checksum: 7F2CE5C4D6F021A7159ED6340D595F0F;1575.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 339.
  ) 
 Here is how much of TeX's memory you used:
- 13165 strings out of 493014
- 201488 string characters out of 6133351
- 432465 words of memory out of 5000000
- 16368 multiletter control sequences out of 15000+600000
- 103527 words of font info for 136 fonts, out of 8000000 for 9000
+ 13390 strings out of 493014
+ 204105 string characters out of 6133351
+ 433469 words of memory out of 5000000
+ 16426 multiletter control sequences out of 15000+600000
+ 128869 words of font info for 255 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,43p,424b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{page.9} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{lstnumber.-2.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstnumber.-1.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/
-usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texli
-ve/2016/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/cm-super/sftt1200.pfb>
-Output written on WriteUp.pdf (5 pages, 88447 bytes).
+ 42i,11n,77p,969b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on WriteUp.pdf (12 pages, 162543 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
- 32961 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 223 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 40654 words of extra memory for PDF output out of 42996 (max. 10000000)
 
