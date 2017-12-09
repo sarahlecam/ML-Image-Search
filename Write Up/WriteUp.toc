@@ -1,0 +1,7 @@
+\select@language {english}
+\contentsline {section}{Description To Image Matching}{2}{chapter*.1}
+\contentsline {subsection}{Abstract}{2}{section*.2}
+\contentsline {subsection}{Introduction}{2}{section*.2}
+\contentsline {subsection}{Experiment}{2}{section*.2}
+\contentsline {subsection}{Results}{2}{section*.2}
+\contentsline {section}{Sources \& External libraries}{3}{section*.2}
